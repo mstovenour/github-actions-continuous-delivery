@@ -7,7 +7,7 @@ Resources:
     
     Properties:
       
-      # This function uses the Nodejs v12.x runtime.
+      # This function uses the Nodejs v12.x  runtime.
       Runtime: nodejs12.x
         
       # This is the Lambda function's handler.
